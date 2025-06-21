@@ -11,7 +11,7 @@ This project is part of my internship at **CodeAlpha**. The goal is to build a m
 - Gain a foundational understanding of classification in machine learning.
 
 ## 📊 Dataset
-
+dataset[https://www.kaggle.com/datasets/saurabh00007/iriscsv]
 The classic **Iris dataset** is used for this task. It includes the following features:
 - Sepal length
 - Sepal width
